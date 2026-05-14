@@ -54,7 +54,6 @@ This project helped me strengthen my practical understanding of:
 - Converting raw data into actionable insights
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
 ![Dashboard Preview](dashboard.png)
 
 ## Author
