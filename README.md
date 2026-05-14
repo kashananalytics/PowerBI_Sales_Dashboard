@@ -19,3 +19,5 @@ This Power BI dashboard analyzes sales performance, profit trends, product categ
 ## Dashboard Preview
 (Add screenshot here)
 ![Dashboard](dashboard.png)
+SalesDashboard.pbix
+dashboard.jpeg
