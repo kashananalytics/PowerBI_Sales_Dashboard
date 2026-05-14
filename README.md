@@ -1,3 +1,4 @@
+<img width="1600" height="912" alt="WhatsApp Image 2026-05-13 at 11 33 54 PM" src="https://github.com/user-attachments/assets/171a82d6-f587-43ae-baef-25823344bd26" />
 # PowerBI_Sales_Dashboard
 Interaction Power BI dashboard for sales analysis using DAX, Power Querry and Data Modeling # Analytical Sales Dashboard
 
