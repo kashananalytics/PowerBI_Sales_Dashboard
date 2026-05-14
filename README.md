@@ -56,5 +56,5 @@ This project helped me strengthen my practical understanding of:
 (Add your dashboard screenshot here)
 
 ## Author
-Kashif  
-BS Statistics Graduate | Aspiring Data Analyst & MIS Professional
+Kashan Ahmed  
+BS Statistics Graduate | Power BI & Data Analytics.
