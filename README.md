@@ -7,7 +7,7 @@
 
 ## 📸 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
+![Dashboard Preview](dashboard.png)
 
 ---
 
