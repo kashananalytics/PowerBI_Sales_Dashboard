@@ -1,7 +1,7 @@
 # Analytical Sales Dashboard | Power BI 📊
 <br>
 <img width="1600" height="912" alt="WhatsApp Image 2026-05-13 at 11 33 54 PM" src="https://github.com/user-attachments/assets/171a82d6-f587-43ae-baef-25823344bd26" />
-# 📊 Analytical Sales Dashboard — Power BI
+📊 Analytical Sales Dashboard — Power BI
 
 > Transforming raw sales data into a clear, interactive dashboard that shows exactly where revenue is coming from, which brands are profitable, and how each supervisor is performing.
 
